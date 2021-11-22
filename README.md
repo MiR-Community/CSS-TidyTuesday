@@ -11,15 +11,17 @@ Twitter announcement: https://twitter.com/miR_community/status/14382141812877598
 
 **Communication:** GitHub, Discord, and email if necessary (no Slack)
 
+## Event leadership
+* [Silvia Canelon](https://twitter.com/spcanelon) -- event co-lead
+* [Liz Hare](https://twitter.com/DogGeneticsLLC) -- event co-lead
+* [Danielle Smalls-Perkins](https://twitter.com/smallperks) -- project manager
+
 ## MiR Community support
-* [Silvia Canelon (co-lead)](https://twitter.com/spcanelon)
-* [Liz Hare (co-lead)](https://twitter.com/DogGeneticsLLC)
-* [Danielle Smalls-Perkins](https://twitter.com/smallperks)
 * [Dorris Scott](https://twitter.com/Dorris_Scott)
 * [Laurie Baker](https://twitter.com/llbaker1707)
 * [Batool Almarzouq](https://twitter.com/batool664)
-* [Gwynn Sturdevant](https://www.nzgwynn.com/)
 * [JooYoung Seo](https://jooyoungseo.com/)
+* [Gwynn Sturdevant](https://www.nzgwynn.com/)
 * [Yanina Bellini Saibene](https://twitter.com/yabellini)
 
 ## External support
