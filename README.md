@@ -12,7 +12,7 @@ Twitter announcement: https://twitter.com/miR_community/status/14382141812877598
 **Communication:** GitHub, Discord, and email if necessary (no Slack)
 
 ## Event leadership
-* [Silvia Canelon](https://twitter.com/spcanelon) -- event co-lead
+* [Silvia Canelón](https://twitter.com/spcanelon) -- event co-lead
 * [Liz Hare](https://twitter.com/DogGeneticsLLC) -- event co-lead
 * [Danielle Smalls-Perkins](https://twitter.com/smallperks) -- project manager
 
@@ -21,7 +21,6 @@ Twitter announcement: https://twitter.com/miR_community/status/14382141812877598
 * [Laurie Baker](https://twitter.com/llbaker1707)
 * [Batool Almarzouq](https://twitter.com/batool664)
 * [JooYoung Seo](https://jooyoungseo.com/)
-* [Gwynn Sturdevant](https://www.nzgwynn.com/)
 * [Yanina Bellini Saibene](https://twitter.com/yabellini)
 
 ## External support
@@ -48,9 +47,8 @@ Twitter announcement: https://twitter.com/miR_community/status/14382141812877598
 * The MiR Community accessibility committee (Dorris Scott, Danielle Smalls-Perkins, and Liz Hare) had already begun working on accessibility guidelines for the R community in other contexts
 
 ## Outline
-* The MiR Community will host one TidyTuesday week in 2022 with a specific accessibility focus
+* The MiR Community will host one TidyTuesday week in 2023 with a specific accessibility focus
 * The goal will be to teach participants how to implement a few accessibility practices (to be determined) in their data viz that week
-* One practice we'd like to prioritize is including alternative (alt) text with shared images because TidyTuesday is mostly inaccessible to the blind community
 * Participants will be encouraged to tweet out which practice(s) they implemented along with their data viz and hopefully cause a little ripple effect of accessibility education. MiR project organizers could potentially help by retweeting some examples
 * MiR will provide educational materials which could include a short video made available on YouTube as well as a blog post. Everything formatted to be accessible, of course.
 * This project will continue to be carried out by MiR with ongoing and evolving education and conversations about accessibility in the R community. The idea is to keep the conversation going beyond TidyTuesday and beyond data viz.
