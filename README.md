@@ -9,18 +9,17 @@ Financially supported by a $10,000 grant from the [Code for Science & Society vi
 
 Twitter announcement: https://twitter.com/miR_community/status/1438214181287759873?s=20
 
-**Communication:** GitHub, Discord, and email if necessary (no Slack)
-
+**Communication:** GitHub, Discord, and email if necessary (no Slack) 
+Our etherpad for mutually editable meeting notes is at https://developer.r-project.org/etherpad/p/MiR_TidyTuesday_Accessibility_Project
 ## Event leadership
 * [Silvia Canelón](https://twitter.com/spcanelon) -- event co-lead
 * [Liz Hare](https://twitter.com/DogGeneticsLLC) -- event co-lead
-* [Danielle Smalls-Perkins](https://twitter.com/smallperks) -- project manager
+* [Danielle Smalls-Perkins](https://twitter.com/smallperks) -- event co-lead
 
 ## MiR Community support
 * [Dorris Scott](https://twitter.com/Dorris_Scott)
 * [Laurie Baker](https://twitter.com/llbaker1707)
 * [Batool Almarzouq](https://twitter.com/batool664)
-* [JooYoung Seo](https://jooyoungseo.com/)
 * [Yanina Bellini Saibene](https://twitter.com/yabellini)
 
 ## External support
@@ -47,7 +46,7 @@ Twitter announcement: https://twitter.com/miR_community/status/14382141812877598
 * The MiR Community accessibility committee (Dorris Scott, Danielle Smalls-Perkins, and Liz Hare) had already begun working on accessibility guidelines for the R community in other contexts
 
 ## Outline
-* The MiR Community will host one TidyTuesday week in 2023 with a specific accessibility focus
+* The MiR Community will host one TidyTuesday week in 2022 with a specific accessibility focus
 * The goal will be to teach participants how to implement a few accessibility practices (to be determined) in their data viz that week
 * Participants will be encouraged to tweet out which practice(s) they implemented along with their data viz and hopefully cause a little ripple effect of accessibility education. MiR project organizers could potentially help by retweeting some examples
 * MiR will provide educational materials which could include a short video made available on YouTube as well as a blog post. Everything formatted to be accessible, of course.
