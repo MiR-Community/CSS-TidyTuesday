@@ -11,10 +11,21 @@ Twitter announcement: https://twitter.com/miR_community/status/14382141812877598
 
 **Communication:** GitHub, Discord, and email if necessary (no Slack) 
 Our etherpad for mutually editable meeting notes is at https://developer.r-project.org/etherpad/p/MiR_TidyTuesday_Accessibility_Project
-## Event leadership
+
+## Event team
+
+### Leadership
 * [Silvia Canelón](https://twitter.com/spcanelon) -- event co-lead
 * [Liz Hare](https://twitter.com/DogGeneticsLLC) -- event co-lead
 * [Danielle Smalls-Perkins](https://twitter.com/smallperks) -- event co-lead
+
+### Organizers
+* [Joselyn Chávez](https://twitter.com/josschavezf1)
+* [Patricia Loto](https://twitter.com/patriloto)
+
+### Educators
+* [Batool Almarzouq](https://twitter.com/batool664)
+* [Sara Stoudt](https://twitter.com/sastoudt)
 
 ## MiR Community support
 * [Dorris Scott](https://twitter.com/Dorris_Scott)
