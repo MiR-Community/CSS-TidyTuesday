@@ -6,7 +6,7 @@ All organizers will be expected to do the following:
 
 * Attend project meetings or inform other members of the organizing team if they will not be able to attend. Please see project timeline.
 * Perform duties outlined in the following role description:
-	* Coordinate with the #TidyTuesday team (i.e. Tom Mock) to prepare a TidyTuesday README
+	* Coordinate with the [#TidyTuesday](https://github.com/rfordatascience/tidytuesday) team (i.e. Tom Mock) to prepare a TidyTuesday README ([example README](https://github.com/rfordatascience/tidytuesday/tree/master/data/2022/2022-10-04))
 	* Prepare tweets for each module on each day
 	* Project planning, preparing, and management
 	* Retweet participants' submissions (you do not need to have a personal Twitter account)
