@@ -24,8 +24,7 @@ All educators will be expected to do the following:
 * *Discord* : If you haven’t logged into Discord yet, join the group here: [MiR Accessibility Chat](https://discord.gg/DsEubkxS)
 	* Please use the _public_ #accessibility_educators channel (name tentative) to discuss the TidyTuesday project with the organizing team
 * *Email* : Contact tidytuesdaya11y@mircommunity.com with Code of Conduct concerns.
-* *GitHub* : 
-	* The _public_ [CSS-TidyTuesday](https://github.com/MiR-Community/CSS-TidyTuesday) repository will be used to store the educational materials that educators design and create as part of the TidyTuesday project. These materials will ultimately live on the MiR Community website.
+* *GitHub* : The _public_ [CSS-TidyTuesday](https://github.com/MiR-Community/CSS-TidyTuesday) repository will be used as both an organizing home base for the TidyTuesday project and to store the educational materials that educators design and create as part of the TidyTuesday project. These educational materials will ultimately live on the MiR Community website.
 * *Meetings*: Will occur using Discord. Please see timeline for meeting dates.
 
 If you have read and agree to the above, please type your full name here:
