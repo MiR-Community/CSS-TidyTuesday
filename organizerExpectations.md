@@ -14,7 +14,7 @@ All organizers will be expected to do the following:
 	* Internally review all education materials and event content for set accessibility standards
 	* Meet with the educators and provide support when they have questions or encounter difficulties. We are thinking that each organizer will have dedicated office hours every other week when they are available on Discord.
 	* Prepare the tweet content that will be shared each day of TidyTuesday. Each day, the tweet (or thread) will include information relevant to that day and the proyect overall
-	* Add the educational content to the [MiR Community website](https://mircommunity.com/), one day at a time. The educators will create the content and the organizers will upload the content to the website when it's time.
+	* Add the educational content to the [MiR Community website](https://mircommunity.com/), one day at a time. The educators will create the content and the organizers will upload the content to the website when it's time. This website is a blogdown site and organizers will get access to the corresponding repository in order to upload the educational content (in the form of R Markdown files).
 	* "Close" the TidyTuesday event on the last day, giving thanks to everyone who participated and provided support, etc.
 
 ## Be Kind
