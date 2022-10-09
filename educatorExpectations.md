@@ -16,7 +16,7 @@ All educators will be expected to do the following:
 
 ## Be Kind
 
-* Adhere to the [contributor covenant](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md)
+* Adhere to the [contributor covenant](https://www.contributor-covenant.org/version/2/1/code_of_conduct)
 * Contact tidytuesdaya11y@mircommunity.com with any concerns
 
 ## Communicate
