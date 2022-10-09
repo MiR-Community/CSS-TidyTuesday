@@ -10,7 +10,6 @@ Financially supported by a $10,000 grant from the [Code for Science & Society vi
 Twitter announcement: https://twitter.com/miR_community/status/1438214181287759873?s=20
 
 **Communication:** GitHub, Discord, and email if necessary (no Slack) 
-Our etherpad for mutually editable meeting notes is at https://developer.r-project.org/etherpad/p/MiR_TidyTuesday_Accessibility_Project
 
 ## Event team
 
@@ -26,6 +25,7 @@ Our etherpad for mutually editable meeting notes is at https://developer.r-proje
 ### Educators
 * [Batool Almarzouq](https://twitter.com/batool664)
 * [Sara Stoudt](https://twitter.com/sastoudt)
+* Educators 3-10
 
 ## MiR Community support
 * [Dorris Scott](https://twitter.com/Dorris_Scott)
