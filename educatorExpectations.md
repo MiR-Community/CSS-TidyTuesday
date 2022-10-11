@@ -28,3 +28,5 @@ All educators will be expected to do the following:
 * *Meetings*: Will occur using Discord. Please see timeline for meeting dates.
 
 If you have read and agree to the above, please type your full name here:
+
+Sara Ann Stoudt
